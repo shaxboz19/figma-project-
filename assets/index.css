@@ -1,0 +1,49 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+@import url('./indexPage/about/index.css');
+@import url('./indexPage/appFooter/index.css');
+@import url('./indexPage/appNavbar/index.css');
+@import url('./indexPage/card/index.css');
+@import url('./indexPage/catalog/index.css');
+@import url('./indexPage/contacts/index.css');
+@import url('./indexPage/mainPage/index.css');
+@import url('./indexPage/news/index.css');
+@import url('./indexPage/partners/index.css');
+@import url('./indexPage/questionForm/index.css');
+@import url('./aboutPage/index.css');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+       
+}
+.container{
+    max-width: 1410px;
+    margin: 0 auto;
+}
+.btn {
+    background: #242365;
+    border-radius: 35px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+    padding: 13px 68px;
+    margin-top: 45px;
+  }
+  .title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 27px;
+    /* identical to box height, or 96% */
+  
+    color: #242365;
+  }
+ 
+  button{
+    border: none;
+  }
+  

@@ -1,0 +1,31 @@
+.main-flex-wrap {
+    display: flex;
+    height: 834px;
+    align-items: center;
+  }
+  .main-flex-item {
+    max-width: 50%;
+  }
+  .main-flex-item-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 55px;
+    color: #242365;
+    margin-bottom: 40px;
+  }
+  .main-flex-item-text {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* or 150% */
+  
+    color: #212121;
+  }
+  
+  .main-flex-item-text{
+    max-width: 300px;
+  }

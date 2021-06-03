@@ -1,0 +1,45 @@
+.about-flex-wrap {
+    display: flex;
+    padding-bottom: 50px;
+  }
+  .abour-flex-item {
+      width: 50%;
+  }
+  
+  .about-card {
+    max-width: 655px;
+    background-color: #f5f9fa;
+    padding: 50px 50px;
+    border-radius: 20px;
+  }
+  .about-flex-item-text {
+    width: 550px;
+    font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  
+  /* or 167% */
+  
+  
+  color: #212121;
+  }
+  .about-flex-item img {
+    max-width: 450px;
+  }
+  .about-flex-item-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 27px;
+    margin-bottom:30px ;
+    /* identical to box height, or 96% */
+  
+    color: #242365;
+  }
+  .about-flex-item-link{
+      text-align: right;
+  }
+  

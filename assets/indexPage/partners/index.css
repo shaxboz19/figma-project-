@@ -1,0 +1,17 @@
+.partners__flex-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 130px;
+}
+.partners__flex-item{
+    margin-right: 30px;
+    justify-content: center;
+  
+    
+}
+.partners__flex-item:last-child{
+    margin-right: 0;
+
+}
