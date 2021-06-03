@@ -9,7 +9,7 @@
           Шприцы одноразовые, Система для инфуз. растворов, Инсулиновый шприц,
           Гинекологическое зеркало
         </p>
-        <button class="flex-item-button">Каталог</button>
+        <button class="flex-item-button btn">Каталог</button>
       </div>
       <div class="flex-item">
         <img src="../../static/img/bg1.png" alt="bg1" />
@@ -51,18 +51,7 @@ export default {};
 
   color: #212121;
 }
-.flex-item-button {
-  background: #242365;
-  border-radius: 35px;
-  font-family: Montserrat;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 22px;
-  color: #ffffff;
-  padding: 13px 68px;
-  margin-top: 45px;
-}
+
 .flex-item-text{
   max-width: 300px;
 }

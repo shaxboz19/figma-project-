@@ -8,3 +8,25 @@
     max-width: 1410px;
     margin: 0 auto;
 }
+.btn {
+    background: #242365;
+    border-radius: 35px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+    padding: 13px 68px;
+    margin-top: 45px;
+  }
+  .title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 27px;
+    /* identical to box height, or 96% */
+  
+    color: #242365;
+  }

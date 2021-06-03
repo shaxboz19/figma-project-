@@ -12,16 +12,22 @@
         </div>
         <div class="flex-item">
           <p>
-           <span> Адрес:</span> Филиал / Склад Ташкент: Джурджоний 1, Учтепинский район,
-            Ташкент, Узбекистан.
+            <span> Адрес:</span> Филиал / Склад Ташкент: Джурджоний 1,
+            Учтепинский район, Ташкент, Узбекистан.
           </p>
         </div>
         <div class="flex-item"><span>Телефон:</span> +998652222911</div>
         <div class="flex-item"><span>Email:</span> uz_medical@mail.ru</div>
         <div class="flex-item">
-          <span class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></span>
-          <span class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></span>
-          <span class="icon"><i class="fa fa-telegram" aria-hidden="true"></i></span>
+          <span class="icon"
+            ><i class="fa fa-facebook" aria-hidden="true"></i
+          ></span>
+          <span class="icon"
+            ><i class="fa fa-instagram" aria-hidden="true"></i
+          ></span>
+          <span class="icon"
+            ><i class="fa fa-telegram" aria-hidden="true"></i
+          ></span>
         </div>
       </div>
       <div class="flex-column">
@@ -82,10 +88,10 @@
 
   color: #212121;
 }
-.flex-item span{
-    color: #242365;
+.flex-item span {
+  color: #242365;
 }
-.icon{
+.icon {
   margin-right: 33px;
 }
 </style>

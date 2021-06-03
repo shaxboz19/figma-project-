@@ -6,7 +6,7 @@
       </div>
       <div class="flex-item">
         <div class="card">
-          <h4 class="flex-item-title">О компании</h4>
+          <h2 class="flex-item-title">О компании</h2>
           <p class="flex-item-text">
             СП ООО «Uz-Korea Medical» Совместное предприятие «Uz-Korea Medical»
             ведет свою успешную деятельность на рынке Узбекистана начиная с 2003

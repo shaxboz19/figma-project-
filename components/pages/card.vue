@@ -5,7 +5,7 @@
         <div class="flex-item-logo">
           <img src="../../static/img/eye.svg" alt="eye" />
         </div>
-        <h4 class="flex-item-title">ВИДЕНИЕ</h4>
+        <h2 class="flex-item-title">ВИДЕНИЕ</h2>
         <p class="flex-item-text">
           Наше видение - это прокладывать путь в более здоровому миру
         </p>
@@ -52,6 +52,7 @@ export default {};
   text-align: center;
   background-color: #f5f9fa;
   border-radius: 20px;
+ 
 }
 .flex-item-logo {
   margin: 0 auto;
